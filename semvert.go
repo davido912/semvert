@@ -1,6 +1,10 @@
 package SemVerTest
 
+import (
+	"fmt"
+)
+
 func Semvert() bool {
 	fmt.Println("this")
-	return True
+	return true
 }
